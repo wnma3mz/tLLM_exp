@@ -1,0 +1,32 @@
+2024-12-21 10:13:59,071 - supervisor - INFO - Started engine_0 with PID 19072
+2024-12-21 10:13:59,072 - supervisor - INFO - Started api with PID 19073
+2024-12-21 10:19:55,932 - supervisor - INFO - Received signal 2
+2024-12-21 10:19:55,932 - supervisor - INFO - Shutting down all processes...
+2024-12-21 10:19:55,932 - supervisor - INFO - Sending SIGTERM to engine_0
+2024-12-21 10:19:55,932 - supervisor - INFO - Sending SIGTERM to api
+2024-12-21 10:19:56,974 - supervisor - ERROR - Error cleaning up shared memory: cannot close exported pointers exist
+2024-12-21 10:19:56,975 - supervisor - INFO - Shutting down all processes...
+2024-12-21 10:19:56,975 - supervisor - ERROR - Error cleaning up shared memory: cannot close exported pointers exist
+2024-12-21 10:21:20,386 - supervisor - INFO - Started engine_0 with PID 19545
+2024-12-21 10:21:20,387 - supervisor - INFO - Started api with PID 19546
+2024-12-21 10:21:21,979 - supervisor - INFO - Received signal 2
+2024-12-21 10:21:21,979 - supervisor - INFO - Shutting down all processes...
+2024-12-21 10:21:21,979 - supervisor - INFO - Sending SIGTERM to engine_0
+2024-12-21 10:21:21,979 - supervisor - INFO - Sending SIGTERM to api
+2024-12-21 10:21:23,006 - supervisor - ERROR - Error cleaning up shared memory: cannot close exported pointers exist
+2024-12-21 10:21:23,008 - supervisor - INFO - Shutting down all processes...
+2024-12-21 10:21:23,008 - supervisor - ERROR - Error cleaning up shared memory: cannot close exported pointers exist
+2024-12-21 10:22:05,820 - supervisor - INFO - Started engine_0 with PID 19661
+2024-12-21 10:22:05,821 - supervisor - INFO - Started api with PID 19662
+2024-12-21 10:22:07,446 - supervisor - INFO - Received signal 2
+2024-12-21 10:22:07,446 - supervisor - INFO - Shutting down all processes...
+2024-12-21 10:22:07,446 - supervisor - INFO - Sending SIGTERM to engine_0
+2024-12-21 10:22:07,446 - supervisor - INFO - Sending SIGTERM to api
+2024-12-21 10:22:08,451 - supervisor - INFO - Shutting down all processes...
+2024-12-21 10:22:09,532 - supervisor - INFO - Started engine_0 with PID 19689
+2024-12-21 10:22:09,533 - supervisor - INFO - Started api with PID 19690
+2024-12-21 10:22:12,659 - supervisor - INFO - Received signal 2
+2024-12-21 10:22:12,659 - supervisor - INFO - Shutting down all processes...
+2024-12-21 10:22:12,660 - supervisor - INFO - Sending SIGTERM to engine_0
+2024-12-21 10:22:12,660 - supervisor - INFO - Sending SIGTERM to api
+2024-12-21 10:22:13,664 - supervisor - INFO - Shutting down all processes...
